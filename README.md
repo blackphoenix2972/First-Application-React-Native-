@@ -5,3 +5,5 @@ This is my first React Native Application! I have used the concept of Views, Ima
 ![image](https://user-images.githubusercontent.com/65230233/130132434-b1c81dee-51b6-4c8f-a915-432560b68dd9.png)
 
 
+The only thing I find good in this project is the image of the Phoenix :(
+
